@@ -22,7 +22,7 @@
 </div>
 
 <div>
- <a href="http://www.miitbeian.gov.cn/">京ICP备17072254号</a>
+ <span><a href="http://www.miitbeian.gov.cn/">京ICP备17072254号</a> </span> | Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a>
 </div>
 
 {% if theme.footer.custom_text %}
