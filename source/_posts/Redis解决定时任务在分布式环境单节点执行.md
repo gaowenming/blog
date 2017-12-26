@@ -1,5 +1,5 @@
 ---
-title: redis解决定时任务在分布式环境单节点执行
+title: Redis解决定时任务在分布式环境单节点执行
 date: 2017-12-24 19:02:21
 tags: Redis
 categories: 分布式
