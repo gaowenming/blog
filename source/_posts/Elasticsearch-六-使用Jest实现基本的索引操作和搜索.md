@@ -550,6 +550,7 @@ public class BlogJestServiceImpl extends AbstractJestDataBaseService<Blog> imple
 总结
 ---
 > Elasticsearch的Jest Api进行简单的封装，把基本的，通用的操作封装到一起实现，比如我们Elasticsearch中存放Blog和User，都有index的创建，删除等基本操作，抽象出来，对代码的整洁性，可维护性也是很有好处的，我们在Elasticsearch中增加一个新的index，只需要关注mapping和search方面的接口，其他的操作都抽象成通用的方法，也很大的节省了重复的工作。
+完整的代码地址：https://github.com/gaowenming/spring-boot-elasticsearch 
 
  
 
